@@ -1,4 +1,4 @@
-# ¡Bienvenido al perfil de LanzerDV! ⚡👋
+# ¡Bienvenido al perfil de DiegoMBV! ⚡👋
 
 ---
 
@@ -43,13 +43,13 @@
 ---
 
 ## 📊 Mis estadísticas
-[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=LanzerDV&show_icons=true&theme=radical)](https://github.com/LanzerDV)
-[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LanzerDV&layout=compact&theme=radical)](https://github.com/LanzerDV)
+[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=DiegoMBV&show_icons=true&theme=radical)](https://github.com/DiegoMBV)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoMBV&layout=compact&theme=radical)](https://github.com/DiegoMBV)
 
 ---
 
 ## 📫 Contacto
-[![GitHub](https://img.shields.io/badge/-@LanzerDV-181717?style=for-the-badge&logo=github)](https://github.com/LanzerDV)
+[![GitHub](https://img.shields.io/badge/-@DiegoMBV-181717?style=for-the-badge&logo=github)](https://github.com/DiegoMBV)
 [![Gmail](https://img.shields.io/badge/-diegomartinezelcano@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegomartinezelcano@gmail.com)
 
 ---
