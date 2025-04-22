@@ -1,16 +1,61 @@
-## Hi there 👋
+# ¡Bienvenido al perfil de LanzerDV! ⚡👋
 
-<!--
-**LanzerDV/LanzerDV** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🌹 Sobre mí 🌹
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+¡Hola! Soy **Diego**, apasionado desarrollador en formación actualmente cursando mi primer año del ciclo **Desarrollo de Aplicaciones Web (DAW)**. Mi objetivo en GitHub es:
+
+- 🚀 Compartir mis proyectos y aprendizajes
+- 📚 Profundizar en tecnologías web modernas
+- 🤝 Colaborar en proyectos open-source
+- 💡 Aprender de la comunidad de desarrollo
+
+🔍 Explora mis proyectos: [Repositorios](https://github.com/LanzerDV?tab=repositories)  
+💬 ¿Preguntas o colaboraciones? ¡Contacta conmigo!
+
+---
+
+## 🛠 Stack Tecnológico 🛠
+
+### 💻 Lenguajes & Frameworks
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗃️ Bases de Datos
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 🛠️ Herramientas
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+---
+
+## 🌱 Actualmente aprendiendo
+- Arquitectura de microservicios
+- Programación de bases de datos
+- Patrones de diseño en Java
+
+---
+
+## 📊 Mis estadísticas
+[![Estadísticas GitHub](https://github-readme-stats.vercel.app/api?username=LanzerDV&show_icons=true&theme=radical)](https://github.com/LanzerDV)
+[![Lenguajes más usados](https://github-readme-stats.vercel.app/api/top-langs/?username=LanzerDV&layout=compact&theme=radical)](https://github.com/LanzerDV)
+
+---
+
+## 📫 Contacto
+[![GitHub](https://img.shields.io/badge/-@LanzerDV-181717?style=for-the-badge&logo=github)](https://github.com/LanzerDV)
+[![Gmail](https://img.shields.io/badge/-diegomartinezelcano@gmail.com-c5221f?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diegomartinezelcano@gmail.com)
+
+---
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Ubuntu&size=24&duration=4000&color=0EAA20&center=true&vCenter=true&width=600&lines=Gracias+por+visitar+mi+perfil!;¡Siempre+eres+bienvenido/a!;Happy+coding!+💻)](https://git.io/typing-svg)
+
+---
+
+🗓️ Última actualización: 22/04/2025
