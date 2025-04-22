@@ -11,7 +11,7 @@
 - 🤝 Colaborar en proyectos open-source
 - 💡 Aprender de la comunidad de desarrollo
 
-🔍 Explora mis proyectos: [Repositorios](https://github.com/LanzerDV?tab=repositories)  
+🔍 Explora mis proyectos: [Repositorios](https://github.com/DiegoMBV?tab=repositories)  
 💬 ¿Preguntas o colaboraciones? ¡Contacta conmigo!
 
 ---
@@ -28,6 +28,12 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+### 🖥️ Sistemas Operativos
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+
 ### 🛠️ Herramientas
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual-studio-code&logoColor=white)
@@ -39,6 +45,7 @@
 - Arquitectura de microservicios
 - Programación de bases de datos
 - Patrones de diseño en Java
+- Administración de sistemas Linux y Windows Server
 
 ---
 
